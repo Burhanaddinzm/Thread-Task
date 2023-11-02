@@ -1,0 +1,14 @@
+C:\Users\Burhan\source\repos\ThreadTopic\ThreadTopic\bin\Debug\net6.0\ThreadTopic.exe
+C:\Users\Burhan\source\repos\ThreadTopic\ThreadTopic\bin\Debug\net6.0\ThreadTopic.deps.json
+C:\Users\Burhan\source\repos\ThreadTopic\ThreadTopic\bin\Debug\net6.0\ThreadTopic.runtimeconfig.json
+C:\Users\Burhan\source\repos\ThreadTopic\ThreadTopic\bin\Debug\net6.0\ThreadTopic.dll
+C:\Users\Burhan\source\repos\ThreadTopic\ThreadTopic\bin\Debug\net6.0\ThreadTopic.pdb
+C:\Users\Burhan\source\repos\ThreadTopic\ThreadTopic\obj\Debug\net6.0\ThreadTopic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burhan\source\repos\ThreadTopic\ThreadTopic\obj\Debug\net6.0\ThreadTopic.AssemblyInfoInputs.cache
+C:\Users\Burhan\source\repos\ThreadTopic\ThreadTopic\obj\Debug\net6.0\ThreadTopic.AssemblyInfo.cs
+C:\Users\Burhan\source\repos\ThreadTopic\ThreadTopic\obj\Debug\net6.0\ThreadTopic.csproj.CoreCompileInputs.cache
+C:\Users\Burhan\source\repos\ThreadTopic\ThreadTopic\obj\Debug\net6.0\ThreadTopic.dll
+C:\Users\Burhan\source\repos\ThreadTopic\ThreadTopic\obj\Debug\net6.0\refint\ThreadTopic.dll
+C:\Users\Burhan\source\repos\ThreadTopic\ThreadTopic\obj\Debug\net6.0\ThreadTopic.pdb
+C:\Users\Burhan\source\repos\ThreadTopic\ThreadTopic\obj\Debug\net6.0\ThreadTopic.genruntimeconfig.cache
+C:\Users\Burhan\source\repos\ThreadTopic\ThreadTopic\obj\Debug\net6.0\ref\ThreadTopic.dll
